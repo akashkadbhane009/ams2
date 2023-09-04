@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of magic-string
+ */
+export * from './lib/magic-string.service';
+export * from './lib/magic-string.component';
+export * from './lib/magic-string.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL21hZ2ljLXN0cmluZy9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsNEJBQTRCLENBQUM7QUFDM0MsY0FBYyw4QkFBOEIsQ0FBQztBQUM3QyxjQUFjLDJCQUEyQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBtYWdpYy1zdHJpbmdcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9tYWdpYy1zdHJpbmcuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tYWdpYy1zdHJpbmcuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL21hZ2ljLXN0cmluZy5tb2R1bGUnO1xuIl19
